@@ -12,8 +12,8 @@ pass
 
 def divide(x,y)
 
-pass
+return x/y
 
 def square(x,y)
 
-pass
+return x*y
